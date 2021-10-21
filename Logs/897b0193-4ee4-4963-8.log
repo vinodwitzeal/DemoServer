@@ -1,0 +1,7 @@
+2021-10-21 15:44:28,861 - INFO: Bootstrap Zone ApiKey= 897b0193-4ee4-4963-8
+2021-10-21 15:56:46,050 - INFO: Bootstrap Zone ApiKey= 897b0193-4ee4-4963-8
+2021-10-21 16:09:01,670 - WARNING: exceptionCaught cause An existing connection was forcibly closed by the remote host remote /127.0.0.1:63178
+2021-10-21 16:09:01,670 - INFO: closing IoSession /127.0.0.1:63178 for user 12345
+2021-10-21 16:10:57,102 - INFO: Bootstrap Zone ApiKey= 897b0193-4ee4-4963-8
+2021-10-21 16:11:43,949 - WARNING: exceptionCaught cause An existing connection was forcibly closed by the remote host remote /127.0.0.1:65019
+2021-10-21 16:11:43,950 - INFO: closing IoSession /127.0.0.1:65019 for user 12345
